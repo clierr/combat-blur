@@ -5,7 +5,7 @@
 ![Client side](https://img.shields.io/badge/Environment-Client%20side-F4DEA5?style=plastic&labelColor=333333)
 ![Mod loaders](https://img.shields.io/badge/Loaders-Fabric%20%7C%20Quilt%20%7C%20Forge%20%7C%20NeoForge-F4DEA5?style=plastic&labelColor=333333)
 ![Graphics APIs](https://img.shields.io/badge/Graphics-OpenGL%20%7C%20Vulkan-F4DEA5?style=plastic&labelColor=333333)
-![License](https://img.shields.io/badge/License-MIT-F4DEA5?style=plastic&labelColor=333333)
+![License](https://img.shields.io/badge/License-Custom-F4DEA5?style=plastic&labelColor=333333)
 
 **Super smooth adjustable motion blur mod for Minecraft OpenGL and Vulkan.**
 
@@ -47,4 +47,7 @@ Use **Java 21** for Minecraft 1.21.x and **Java 25** for 26.x. On 26.2/26.3, cho
 
 Report problems through GitHub Issues. Include your Minecraft version, loader version, graphics backend and relevant log details. Remove private information before sharing logs.
 
-**Author:** clierr · **License:** MIT
+**Author:** clierr · **License:** [Combat Blur License 1.0](LICENSE)
+
+
+Future distributions use the custom Combat Blur License 1.0. Gameplay, videos/streams and unchanged JARs in modpacks are permitted under its conditions. Code reuse, modified builds and standalone reuploads require written permission. Earlier MIT releases retain their original permissions.
