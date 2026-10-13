@@ -7,17 +7,15 @@
 ![Graphics APIs](https://img.shields.io/badge/Graphics-OpenGL%20%7C%20Vulkan-F4DEA5?style=plastic&labelColor=333333)
 ![License](https://img.shields.io/badge/License-MIT-F4DEA5?style=plastic&labelColor=333333)
 
-**Smooth, adjustable motion blur for Minecraft combat. Created by clierr.**
+**Super smooth adjustable motion blur mod for Minecraft OpenGL and Vulkan.**
 
 Combat Blur combines camera motion blur with temporal frame blending for a fluid look, including your first-person hand and held item. Its gentle default keeps the effect subtle, while the strength slider lets you turn it up.
 
 ## Features
 
-- **Adjustable strength:** a gentle default of **1.0**, with a range from zero blur to strong motion trails.
 - **Hand and item blur:** first-person animations are included by default.
 - **Sharp HUD:** your crosshair, hotbar and interface stay clear.
-- **Custom settings screen:** compact translucent black panels, a category sidebar, search and bright sand-beige highlights.
-- **Detailed controls:** camera rotation and movement, frame persistence, ghost suppression, samples, depth edges and panel opacity.
+- **Detailed controls:** camera rotation and movement, frame persistence, ghost suppression, samples, depth edges.
 - **Four mod loaders:** Fabric, Quilt, Forge and NeoForge.
 - **OpenGL and Vulkan:** Minecraft's native graphics backend is followed on 26.2 and 26.3.
 
