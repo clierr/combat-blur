@@ -27,13 +27,12 @@ Use **`/cb`** or **`/combatblur`**, Mod Menu's config button on Fabric/Quilt, or
 
 ## Minecraft version groups
 
-Combined JARs are being prepared for these groups:
+Available Verisons and Loaders:
 
 | Minecraft | Available loader targets |
 |---|---|
-| **1.21–1.21.4** | Fabric · Quilt · Forge · NeoForge |
-| **1.21.4–1.21.11** | Fabric · Quilt · Forge · NeoForge |
-| **26.2–26.3** | Fabric · Quilt · Forge · NeoForge |
+| **1.21.x** | Fabric · Quilt · Forge · NeoForge |
+| **26.x** | Fabric · Quilt · Forge · NeoForge |
 
 Use a loader release that exists for your chosen Minecraft version. Each combined JAR selects its matching game adapter. On **1.21.4**, choose one of the overlapping groups.
 
