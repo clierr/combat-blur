@@ -46,12 +46,6 @@ Use a loader release that exists for your chosen Minecraft version. Each combine
 
 Use **Java 21** for Minecraft 1.21.x and **Java 25** for 26.x. On 26.2/26.3, choose OpenGL or Vulkan in Minecraft's video settings and restart the game.
 
-## Release status
-
-**Project setup in progress — no public versions have been uploaded yet.**
-
-The combined builds are undergoing compatibility checks. Temporal blending creates a smooth visual effect; it does not generate additional frames or increase FPS. Compatibility with shader packs and other rendering mods has not yet been established.
-
 ## Feedback
 
 Report problems through GitHub Issues. Include your Minecraft version, loader version, graphics backend and relevant log details. Remove private information before sharing logs.
