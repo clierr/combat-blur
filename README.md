@@ -1,6 +1,6 @@
 # Combat Blur
 
-<img src="banner.png" alt="Combat Blur" width="160">
+<img src="banner.png" alt="Combat Blur" width="720">
 
 ![Client side](https://img.shields.io/badge/Environment-Client%20side-F4DEA5?style=plastic&labelColor=333333)
 ![Mod loaders](https://img.shields.io/badge/Loaders-Fabric%20%7C%20Quilt%20%7C%20Forge%20%7C%20NeoForge-F4DEA5?style=plastic&labelColor=333333)
